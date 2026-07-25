@@ -1,7 +1,7 @@
 ### Hi there 👋
-**I'm Charlene, a motivated full-stack developer based in Irvine, California.**
+**I'm Charlene, a technical product builder, who**
 
-- 🌱 Currently working on web and mobile applications.
+- 🌱 Focused on Creative AI, Computational Design & 3D Technology.
 - ⚡ Interested and experienced in game engine, VR AR, and visualization. 
 
 [<img src ="https://img.shields.io/badge/🌐-Portfolio-%23.svg?style=for-the-badge&logo=&logoColor=white%22">](https://xcchen.netlify.app/)

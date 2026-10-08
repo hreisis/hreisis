@@ -4,7 +4,7 @@
 
 I turn research and complex ideas into tools and experiences people can use. My background spans architecture, computational design, AI and media art, and full-stack development, with experience coordinating projects, client needs, and delivery.
 
-[Portfolio](https://hreisis.github.io/) · [Résumé](https://hreisis.github.io/Charlene_Chen_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/xianingchen/) · [Email](mailto:xcchen.dev@gmail.com)
+[Portfolio](https://hreisis.github.io/) · [Résumé](https://hreisis.github.io/Charlene_Chen_Resume.pdf) · [Email](mailto:xcchen.dev@gmail.com)
 
 ### What I’m building
 
@@ -16,7 +16,7 @@ I turn research and complex ideas into tools and experiences people can use. My 
 
 Research → define the problem → design the workflow → build → test → iterate.
 
-My work connects product thinking and hands-on development with the coordination needed to carry a project through. Before building independent tools, I worked on hospitality, master planning, and retail projects at WATG and MG2, and co-founded the floral brand Lemuria.
+My work connects product thinking and hands-on development with the coordination needed to carry a project through. Before building independent tools, I worked on hospitality, master planning, and retail projects, and co-founded a floral brand.
 
 ### Tools & practice
 

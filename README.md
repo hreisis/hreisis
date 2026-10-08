@@ -1,40 +1,27 @@
-### Hi there 👋
-**I'm Charlene, a technical product builder, who**
+# Charlene Chen
 
-- 🌱 Focused on Creative AI, Computational Design & 3D Technology.
-- ⚡ Interested and experienced in game engine, VR AR, and visualization. 
+**Independent product developer & designer · Irvine, California**
 
-[<img src ="https://img.shields.io/badge/🌐-Portfolio-%23.svg?style=for-the-badge&logo=&logoColor=white%22">](https://xcchen.netlify.app/)
+I turn research and complex ideas into tools and experiences people can use. My background spans architecture, computational design, AI and media art, and full-stack development, with experience coordinating projects, client needs, and delivery.
 
-### 🛠 Technologies & Tools
+[Portfolio](https://hreisis.github.io/) · [Résumé](https://hreisis.github.io/Charlene_Chen_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/xianingchen/) · [Email](mailto:xcchen.dev@gmail.com)
 
->![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=flat-square&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat-square&logo=glitch&logoColor=white)
+### What I’m building
 
+- **[GammaDesk](https://hreisis.github.io/gammadesk.html)** — A bilingual market research workspace connecting macro conditions, options structure, breadth, and daily review. I developed the research framework, designed the interface, and built and iterated the product with AI coding agents and financial-data APIs.
+- **[Signal-Lab](https://hreisis.github.io/signal-lab.html)** — A rule-based research tool that translates price-action observations into TradingView alerts, staged exits, and ATR risk controls, refined through historical testing.
+- **[Spatial & creative technology](https://hreisis.github.io/#work)** — Interactive 3D, immersive environments, and AI-assisted visual experiments, including Mojave, Spectrum, and WormHole.
 
->![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white)
+### How I work
 
+Research → define the problem → design the workflow → build → test → iterate.
 
-### 💬 Contact Me 
+My work connects product thinking and hands-on development with the coordination needed to carry a project through. Before building independent tools, I worked on hospitality, master planning, and retail projects at WATG and MG2, and co-founded the floral brand Lemuria.
 
-![Gmail Badge](https://img.shields.io/badge/-xcchen.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
+### Tools & practice
+
+- **Development:** JavaScript, React, Next.js, React Native, Node.js, Express, MongoDB, Python, Pine Script.
+- **Creative technology:** Unreal Engine, Unity, Three.js, Blender, Adobe Creative Suite.
+- **Product delivery:** API integration, AI-assisted development, GitHub, Vercel, research documentation, and project coordination.
+
+Interested in product operations, program coordination, and business operations opportunities, especially in AI, 3D, and creative tools.
